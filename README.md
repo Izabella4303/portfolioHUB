@@ -1,5 +1,8 @@
 # PortfolioHUB - Izabella
 
+##Link do Projeto
+Acesse o portfólio executável aqui: [izabella4303.github.io/portfolioHUB/](http://izabella4303.github.io/portfolioHUB/)
+
 ## Sobre
 Este repositório foi desenvolvido com o objetivo de apresentar meus projetos acadêmicos, habilidades e evolução na área de Inteligência Artificial.
 
